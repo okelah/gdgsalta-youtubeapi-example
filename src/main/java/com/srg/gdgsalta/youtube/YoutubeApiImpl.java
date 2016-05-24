@@ -36,9 +36,9 @@ import java.util.List;
 public class YoutubeApiImpl {
 
     //Global instance App Name.
-    private static final String APP_NAME = "gdgsalta-1314";
+    private static final String APP_NAME = "PONER TU APP NAME AQUI";
     //Global instance Api Key.     
-    private static final String API_KEY = "AIzaSyBH_aUBwfxX6DhYn2xl7f6f4ShgQ3L8QcQ";
+    private static final String API_KEY = "PONER TU API KEY AQUI";
     //Global instance of the HTTP transport.
     private static final HttpTransport HTTP_TRANSPORT = new NetHttpTransport();
     //Global instance of the JSON factory.     
