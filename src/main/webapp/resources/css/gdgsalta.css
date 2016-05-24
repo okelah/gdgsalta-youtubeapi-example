@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/05/2016, 20:57:07
+    Author     : sebas
+*/
+.site-background{
+    background-image: url(../images/gdg_logo_transp.png);    
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+.header{
+    background-color: #ffffff;
+}
+
+.content{
+    background-color: #EEEEEE;   
+    border-top: thick solid #242424;
+}
+
+.logo{
+    background-color: #242424;
+}
+
+.menu-left{
+    border-top: thick solid #EEEEEE;
+    background-color: #242424;
+    padding-top: 10px;
+}
+
+.menu-links {
+    color: #EEEEEE;
+    font-weight: bolder;
+    text-decoration: none;
+    margin-left: -30px;
+}
+
+.menu-links:hover {
+    color: #EEEEEE;
+    background-color: #787878;
+    font-weight: bolder;
+    text-decoration: none;
+    margin-left: -30px;
+}
+
+.footer{
+    background-color: #ffffff;
+    border-top: thick solid #242424;
+    padding:20px;
+    text-align: center;
+}
+
